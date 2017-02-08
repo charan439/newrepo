@@ -1,1 +1,10 @@
 smaple file
+
+sample import java.io
+{
+ public string(args[])
+
+{
+system.out.println('hello world);
+}
+}
